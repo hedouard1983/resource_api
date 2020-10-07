@@ -1,0 +1,16 @@
+{
+  "name": "resource_api",
+  "version": "1.0.0",
+  "description": "Sandbox",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "Henry Edouard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.8"
+  }
+}
